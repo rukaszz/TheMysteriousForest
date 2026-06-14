@@ -1,0 +1,54 @@
+# ライセンス(License)
+
+## ソースコード(Source code)
+
+『The Mysterious Forest』の自作ソースコードおよび自作プログラム部分は，MITライセンスの下で提供されています．
+
+The original source code and original program components of The Mysterious Forest created by rukaszz are licensed under the MIT License.
+
+Copyright (c) 2026 rukaszz
+
+MITライセンス全文
+
+```text
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+```
+
+## サードパーティ製ゲームアセット(Third-party Assets)
+
+本パッケージに含まれる画像，フォント，効果音，
+音楽などのゲームアセットは，必ずしもMITライセンスの下でライセンスされているわけではありません．
+
+The game assets included in this package, such as images, fonts, sound effects and music, include items that were not created by me and are not necessarily licensed under the MIT Licence.
+
+各アセットは，それぞれの元のライセンスまたは利用規約に基づいて配布されています．
+詳細については，ATTRIBUTION.mdを参照してください．
+
+Each asset is distributed under its original license or terms of use.
+See ATTRIBUTION.md for details.
+
+## サードパーティ製ライブラリ(Third-party Libraries)
+
+本ゲームはSDL2および関連ライブラリを使用しています．
+それらのライセンスは，本ライセンスによって置き換えられるものではありません．
+詳細については，ATTRIBUTION.mdを参照してください．
+
+This game uses SDL2 and related libraries.
+Their licenses are not replaced by this license.
+See ATTRIBUTION.md for details.
