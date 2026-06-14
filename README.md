@@ -5,8 +5,12 @@
 The Mysterious Forest は C++/SDL2 で制作した，2D横スクロールアクションゲームです．
 プレイヤーは森の中へ進みながら，敵や罠を突破して待ち構えるボスを倒して全ステージクリアを目指します．
 
+ソースなどは[SDL_Weekly](https://github.com/rukaszz/sdl_weekly)リポジトリにて管理しています．
+
 The Mysterious Forest is a 2D side-scrolling action game developed using C++ and SDL2.
 Players must make their way through the forest, overcoming enemies and traps to defeat the boss that lies in wait, with the aim of clearing every stage.
+
+The source code is managed on [SDL_Weekly](https://github.com/rukaszz/sdl_weekly) repository.
 
 ## 内容(Content)
 
